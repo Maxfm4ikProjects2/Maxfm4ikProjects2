@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Maxfm4ik! 👋
 
-<!--
-**Maxfm4ikProjects2/Maxfm4ikProjects2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm small developer, which likes to make python when bored.
 
-Here are some ideas to get you started:
+![Maxfm4ikProject2's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxfm4ikprojects2&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Skills
+[![My Skills](https://skillicons.dev/icons?i=py,js,lua,java,vscode,html,css,windows,azure,cloudflare)](https://skillicons.dev)
+
+## Projects
+- **[BLUE16](https://github.com/blue16-team):** Upcoming 2016 Roblox revival, which tries to replicate 2016 roblox experience.
+
+## Contact
+My only public way to contact is via mail: maxfm4ikprojects@dr.com or DMing me in Discord: 851061989820071946
+
