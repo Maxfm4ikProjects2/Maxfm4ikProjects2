@@ -13,5 +13,5 @@ I'm small developer, which likes to make python when bored.
 - **[BLUE16](https://github.com/blue16-team):** Upcoming 2016 Roblox revival, which tries to replicate 2016 roblox experience.
 
 ## Contact
-My only public way to contact is via mail: maxfm4ikprojects@dr.com or DMing me in Discord: 851061989820071946
+My only public way to contact is via mail: max@maxfm4ik.site or DMing me in Discord: 851061989820071946
 
