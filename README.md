@@ -10,7 +10,7 @@ I'm small developer, which likes to make python when bored.
 [![My Skills](https://skillicons.dev/icons?i=py,js,lua,java,vscode,html,css,windows,azure,cloudflare)](https://skillicons.dev)
 
 ## Projects
-- **[BLUE16](https://github.com/blue16-team):** Upcoming 2016 Roblox revival, which tries to replicate 2016 roblox experience.
+- **[LibreBucket](https://github.com/standard-group/librebucket):** A lightweight, self-hosted Git server with a clean web interface, built with Go.
 
 ## Contact
 My only public way to contact is via mail: max@maxfm4ik.site or DMing me in Discord: 851061989820071946
