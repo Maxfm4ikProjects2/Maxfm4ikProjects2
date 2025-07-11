@@ -11,6 +11,7 @@ I'm small developer, which likes to make python when bored.
 
 ## Projects
 - **[LibreBucket](https://github.com/standard-group/librebucket):** A lightweight, self-hosted Git server with a clean web interface, built with Go.
+- **Project Mesa:** Secure messenger for anyone who needs a safe, easy and robust way to communicate.
 
 ## Contact
 My only public way to contact is via mail: max@maxfm4ik.site or DMing me in Discord: 851061989820071946
