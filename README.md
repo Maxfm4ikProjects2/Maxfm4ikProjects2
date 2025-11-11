@@ -1,4 +1,4 @@
-# Hi there, I'm Maxfm4ik! 👋
+# Hi there, I'm Jeardey! 👋
 I'm a self-taught developer, good at Python, learning C#.
 
 ![](https://komarev.com/ghpvc/?username=Maxfm4ikprojects2)
